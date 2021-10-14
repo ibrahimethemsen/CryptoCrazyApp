@@ -16,12 +16,8 @@ Crpyto paralarının logolarıda bulunuyor.
 **-MVVM mimarisi**</br>
 **-Jetpack çatısı altında Hilt kütüphanesi** </br>
 **-Navigation**</br>
-## Uygulama Videosu ->
-
-![Screenshot_1634202152](https://user-images.githubusercontent.com/68695185/137286123-a17b1c42-c077-4760-8628-4feec67e8305.png)
-![Screenshot_1634202170](https://user-images.githubusercontent.com/68695185/137286133-4bb13266-ee2e-419d-bdfe-944fe46927bd.png)
-
-
-
+## Ekran Görüntüleri ->
+![Screenshot_1634202152](https://user-images.githubusercontent.com/68695185/137286596-a692f126-78c4-4fb5-a3cc-b7215836fe39.png)
+![Screenshot_1634202170](https://user-images.githubusercontent.com/68695185/137286600-ecae0bfc-0d0a-4da7-a671-65d8b1e9e9db.png)
 
 
